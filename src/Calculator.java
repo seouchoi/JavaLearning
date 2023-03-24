@@ -24,7 +24,7 @@ public class Calculator {
 		break;
 		case "*": System.out.printf("%.1f * %.1f = %.1f",i,j,i*j);
 		break;
-		case "/": System.out.printf("%.1f / %f = %.1f",i,j,i/j);
+		case "/": System.out.printf("%.1f / %.1f = %.1f",i,j,i/j);
 		}
 		
 		
