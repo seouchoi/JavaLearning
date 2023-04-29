@@ -1,3 +1,4 @@
+package ass_2;
 import java.util.Scanner;
 
 public class Convert {

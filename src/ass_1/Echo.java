@@ -1,3 +1,4 @@
+package ass_1;
 import java.util.*;
 
 public class Echo {

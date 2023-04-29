@@ -1,3 +1,4 @@
+package ass_3;
 import java.util.*;
 
 public class CountTheWords {

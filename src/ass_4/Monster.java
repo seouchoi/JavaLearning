@@ -1,3 +1,4 @@
+package ass_4;
 
 public class Monster {
 	int hp;	

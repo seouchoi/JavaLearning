@@ -1,4 +1,4 @@
-
+package ass_4;
 public class Hunting {
 
 	public static void main(String[] args) {
