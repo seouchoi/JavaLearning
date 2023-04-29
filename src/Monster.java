@@ -5,5 +5,4 @@ public class Monster {
 	{
 		this.hp=hp;
 	}
-	
 }

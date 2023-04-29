@@ -1,6 +1,5 @@
-
 public class Matrix {
-	
+	    
 		public static void main(String[] args) {
 		int matrixA[][]= {{1,0,2},{-1,3,1}};
 		int matrixB[][]= {{3,1},{2,1},{1,0}};
