@@ -4,7 +4,7 @@ public class Music {
 	String music;
 	
 	public Music(String music) {
-		this.music = music;
+		this.music=music;
 	}
 	
 	public String getMusic()

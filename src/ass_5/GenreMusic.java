@@ -15,7 +15,7 @@ public class GenreMusic extends Music{
 	{
 		this.genre=genre;
 	}
-	
+		
 	public void printGenreMusic()
 	{
 		this.printMusic();
