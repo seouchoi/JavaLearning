@@ -7,7 +7,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.JTextArea;
+import javax.swing.JTextField;
 
 public class MyFrame extends JFrame {
 	JPanel p1 = new JPanel();
@@ -20,7 +20,7 @@ public class MyFrame extends JFrame {
 		JButton b2 = new JButton("Potato Pizza");
 		JButton b3 = new JButton("Roasted meat Pizza");
 		JLabel jl = new JLabel("count");
-		JTextArea area = new JTextArea("               ");
+		JTextField area = new JTextField(15);
 		
 		p1.add(select);
 		p2.add(b1);
